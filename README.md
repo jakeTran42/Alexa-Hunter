@@ -1,6 +1,6 @@
 # Alexa-Hunter
 
-# Branching
+## Branching
 
 1. Clone Repo
 2. git checkout -b "develop"
